@@ -1,0 +1,2380 @@
+{
+    "Abkhazia": {
+        "total_games": 11,
+        "avg_goals_scored": 1.91,
+        "avg_goals_conceded": 0.64,
+        "top_scorers": {}
+    },
+    "Afghanistan": {
+        "total_games": 41,
+        "avg_goals_scored": 0.73,
+        "avg_goals_conceded": 1.71,
+        "top_scorers": {
+            "Farshad Noor": 2,
+            "Amredin Sharifi": 2,
+            "Zelfy Nazary": 1
+        }
+    },
+    "Albania": {
+        "total_games": 85,
+        "avg_goals_scored": 1.07,
+        "avg_goals_conceded": 1.12,
+        "top_scorers": {
+            "Sokol Çikalleshi": 10,
+            "Rey Manaj": 9,
+            "Nedim Bajrami": 5
+        }
+    },
+    "Alderney": {
+        "total_games": 7,
+        "avg_goals_scored": 0.86,
+        "avg_goals_conceded": 3.29,
+        "top_scorers": {}
+    },
+    "Algeria": {
+        "total_games": 115,
+        "avg_goals_scored": 2.1,
+        "avg_goals_conceded": 0.81,
+        "top_scorers": {
+            "Riyad Mahrez": 14,
+            "Baghdad Bounedjah": 10,
+            "Islam Slimani": 10
+        }
+    },
+    "American Samoa": {
+        "total_games": 12,
+        "avg_goals_scored": 0.5,
+        "avg_goals_conceded": 6.67,
+        "top_scorers": {}
+    },
+    "Andorra": {
+        "total_games": 84,
+        "avg_goals_scored": 0.43,
+        "avg_goals_conceded": 1.74,
+        "top_scorers": {
+            "Marc Vales": 4,
+            "Albert Rosas": 4,
+            "Cristian Martínez": 3
+        }
+    },
+    "Angola": {
+        "total_games": 80,
+        "avg_goals_scored": 1.15,
+        "avg_goals_conceded": 0.85,
+        "top_scorers": {
+            "Gelson Dala": 6,
+            "Mabululu": 4,
+            "Zini": 4
+        }
+    },
+    "Anguilla": {
+        "total_games": 40,
+        "avg_goals_scored": 0.5,
+        "avg_goals_conceded": 3.6,
+        "top_scorers": {
+            "Luke Paris": 1
+        }
+    },
+    "Antigua and Barbuda": {
+        "total_games": 44,
+        "avg_goals_scored": 1.11,
+        "avg_goals_conceded": 2.39,
+        "top_scorers": {
+            "Quinton Griffith": 2,
+            "Eugene Kirwan": 1,
+            "D'Andre Bishop": 1
+        }
+    },
+    "Argentina": {
+        "total_games": 110,
+        "avg_goals_scored": 2.09,
+        "avg_goals_conceded": 0.65,
+        "top_scorers": {
+            "Lionel Messi": 37,
+            "Lautaro Martínez": 25,
+            "Ángel Di María": 7
+        }
+    },
+    "Armenia": {
+        "total_games": 81,
+        "avg_goals_scored": 1.12,
+        "avg_goals_conceded": 2.04,
+        "top_scorers": {
+            "Tigran Barseghyan": 8,
+            "Henrikh Mkhitaryan": 7,
+            "Eduard Spertsyan": 7
+        }
+    },
+    "Artsakh": {
+        "total_games": 5,
+        "avg_goals_scored": 1.8,
+        "avg_goals_conceded": 1.6,
+        "top_scorers": {}
+    },
+    "Aruba": {
+        "total_games": 39,
+        "avg_goals_scored": 1.36,
+        "avg_goals_conceded": 2.26,
+        "top_scorers": {
+            "Joshua John": 2,
+            "Terence Groothusen": 1,
+            "Walter Bennett": 1
+        }
+    },
+    "Australia": {
+        "total_games": 86,
+        "avg_goals_scored": 1.8,
+        "avg_goals_conceded": 0.77,
+        "top_scorers": {
+            "Jamie Maclaren": 11,
+            "Jackson Irvine": 9,
+            "Harry Souttar": 9
+        }
+    },
+    "Austria": {
+        "total_games": 96,
+        "avg_goals_scored": 1.79,
+        "avg_goals_conceded": 1.04,
+        "top_scorers": {
+            "Marko Arnautović": 29,
+            "Marcel Sabitzer": 18,
+            "Michael Gregoritsch": 16
+        }
+    },
+    "Azerbaijan": {
+        "total_games": 85,
+        "avg_goals_scored": 0.92,
+        "avg_goals_conceded": 1.64,
+        "top_scorers": {
+            "Emin Mahmudov": 8,
+            "Ramil Sheydayev": 5,
+            "Renat Dadashov": 3
+        }
+    },
+    "Bahamas": {
+        "total_games": 39,
+        "avg_goals_scored": 1.13,
+        "avg_goals_conceded": 3.03,
+        "top_scorers": {
+            "Wood Julmis": 1
+        }
+    },
+    "Bahrain": {
+        "total_games": 110,
+        "avg_goals_scored": 1.38,
+        "avg_goals_conceded": 1.08,
+        "top_scorers": {
+            "Kamil Al Aswad": 4,
+            "Ali Madan": 4,
+            "Ismail Abdullatif": 4
+        }
+    },
+    "Bangladesh": {
+        "total_games": 71,
+        "avg_goals_scored": 0.85,
+        "avg_goals_conceded": 1.41,
+        "top_scorers": {
+            "Robiul Hasan": 1,
+            "Saad Uddin": 1,
+            "Biplu Ahmed": 1
+        }
+    },
+    "Barawa": {
+        "total_games": 10,
+        "avg_goals_scored": 1.4,
+        "avg_goals_conceded": 3.8,
+        "top_scorers": {}
+    },
+    "Barbados": {
+        "total_games": 58,
+        "avg_goals_scored": 1.26,
+        "avg_goals_conceded": 2.12,
+        "top_scorers": {
+            "Niall Reid-Stephen": 3,
+            "Emile Saimovici": 2,
+            "Omani Leacock": 1
+        }
+    },
+    "Basque Country": {
+        "total_games": 5,
+        "avg_goals_scored": 2.0,
+        "avg_goals_conceded": 0.8,
+        "top_scorers": {}
+    },
+    "Belarus": {
+        "total_games": 83,
+        "avg_goals_scored": 1.04,
+        "avg_goals_conceded": 1.52,
+        "top_scorers": {
+            "Stanislaw Drahun": 6,
+            "Vitaly Lisakovich": 5,
+            "Max Ebong": 5
+        }
+    },
+    "Belgium": {
+        "total_games": 108,
+        "avg_goals_scored": 2.39,
+        "avg_goals_conceded": 0.86,
+        "top_scorers": {
+            "Romelu Lukaku": 51,
+            "Kevin De Bruyne": 21,
+            "Michy Batshuayi": 14
+        }
+    },
+    "Belize": {
+        "total_games": 51,
+        "avg_goals_scored": 1.2,
+        "avg_goals_conceded": 1.63,
+        "top_scorers": {
+            "Carlos Bernárdez": 3,
+            "Jesse August": 1,
+            "Deshawon Nembhard": 1
+        }
+    },
+    "Benin": {
+        "total_games": 70,
+        "avg_goals_scored": 1.0,
+        "avg_goals_conceded": 1.17,
+        "top_scorers": {
+            "Steve Mounié": 8,
+            "Jodel Dossou": 3,
+            "Mickaël Poté": 2
+        }
+    },
+    "Bermuda": {
+        "total_games": 55,
+        "avg_goals_scored": 1.71,
+        "avg_goals_conceded": 2.2,
+        "top_scorers": {
+            "Kane Crichlow": 4,
+            "Djair Parfitt": 4,
+            "Dante Leverock": 2
+        }
+    },
+    "Bhutan": {
+        "total_games": 28,
+        "avg_goals_scored": 0.43,
+        "avg_goals_conceded": 2.86,
+        "top_scorers": {
+            "Tshering Dorji": 1,
+            "Chencho Gyeltshen": 1,
+            "Lobzang Chogyal": 1
+        }
+    },
+    "Bolivia": {
+        "total_games": 90,
+        "avg_goals_scored": 0.91,
+        "avg_goals_conceded": 1.97,
+        "top_scorers": {
+            "Marcelo Martins Moreno": 11,
+            "Miguel Terceros": 8,
+            "Ramiro Vaca": 3
+        }
+    },
+    "Bonaire": {
+        "total_games": 31,
+        "avg_goals_scored": 1.35,
+        "avg_goals_conceded": 2.1,
+        "top_scorers": {}
+    },
+    "Bosnia and Herzegovina": {
+        "total_games": 88,
+        "avg_goals_scored": 1.09,
+        "avg_goals_conceded": 1.4,
+        "top_scorers": {
+            "Edin Džeko": 20,
+            "Miralem Pjanić": 6,
+            "Smail Prevljak": 5
+        }
+    },
+    "Botswana": {
+        "total_games": 71,
+        "avg_goals_scored": 0.85,
+        "avg_goals_conceded": 1.17,
+        "top_scorers": {
+            "Kabelo Seakanyeng": 2,
+            "Gape Mohutsiwa": 2,
+            "Tebogo Kopelang": 2
+        }
+    },
+    "Brazil": {
+        "total_games": 106,
+        "avg_goals_scored": 2.0,
+        "avg_goals_conceded": 0.67,
+        "top_scorers": {
+            "Neymar": 17,
+            "Richarlison": 11,
+            "Vinícius Júnior": 10
+        }
+    },
+    "British Virgin Islands": {
+        "total_games": 39,
+        "avg_goals_scored": 1.05,
+        "avg_goals_conceded": 2.49,
+        "top_scorers": {
+            "Hugo Liziario": 1
+        }
+    },
+    "Brunei": {
+        "total_games": 32,
+        "avg_goals_scored": 0.84,
+        "avg_goals_conceded": 2.84,
+        "top_scorers": {
+            "Razimie Ramlli": 2
+        }
+    },
+    "Bulgaria": {
+        "total_games": 83,
+        "avg_goals_scored": 0.98,
+        "avg_goals_conceded": 1.57,
+        "top_scorers": {
+            "Kiril Despodov": 10,
+            "Todor Nedelev": 4,
+            "Bozhidar Kraev": 3
+        }
+    },
+    "Burkina Faso": {
+        "total_games": 90,
+        "avg_goals_scored": 1.41,
+        "avg_goals_conceded": 0.99,
+        "top_scorers": {
+            "Lassina Traoré": 7,
+            "Bertrand Traoré": 7,
+            "Dango Ouattara": 5
+        }
+    },
+    "Burundi": {
+        "total_games": 52,
+        "avg_goals_scored": 1.1,
+        "avg_goals_conceded": 1.52,
+        "top_scorers": {
+            "Sudi Abdallah": 3,
+            "Bienvenue Kanakimana": 3,
+            "Bonfils-Caleb Bimenyimana": 2
+        }
+    },
+    "Cambodia": {
+        "total_games": 60,
+        "avg_goals_scored": 1.18,
+        "avg_goals_conceded": 2.18,
+        "top_scorers": {
+            "Sieng Chanthea": 1,
+            "Kouch Sokumpheak": 1,
+            "Sath Rosib": 1
+        }
+    },
+    "Cameroon": {
+        "total_games": 85,
+        "avg_goals_scored": 1.28,
+        "avg_goals_conceded": 0.79,
+        "top_scorers": {
+            "Vincent Aboubakar": 16,
+            "Karl Toko Ekambi": 9,
+            "Eric Maxim Choupo-Moting": 4
+        }
+    },
+    "Canada": {
+        "total_games": 98,
+        "avg_goals_scored": 2.04,
+        "avg_goals_conceded": 0.9,
+        "top_scorers": {
+            "Jonathan David": 22,
+            "Cyle Larin": 19,
+            "Lucas Cavallini": 11
+        }
+    },
+    "Canton Ticino": {
+        "total_games": 5,
+        "avg_goals_scored": 1.2,
+        "avg_goals_conceded": 4.2,
+        "top_scorers": {}
+    },
+    "Cape Verde": {
+        "total_games": 78,
+        "avg_goals_scored": 1.22,
+        "avg_goals_conceded": 0.97,
+        "top_scorers": {
+            "Jamiro Monteiro": 4,
+            "Dailon Livramento": 4,
+            "Ryan Mendes": 4
+        }
+    },
+    "Cascadia": {
+        "total_games": 7,
+        "avg_goals_scored": 3.29,
+        "avg_goals_conceded": 2.0,
+        "top_scorers": {}
+    },
+    "Cayman Islands": {
+        "total_games": 37,
+        "avg_goals_scored": 0.86,
+        "avg_goals_conceded": 2.24,
+        "top_scorers": {
+            "Jonah Ebanks": 1,
+            "Mark Ebanks": 1,
+            "Joshwa Campbell": 1
+        }
+    },
+    "Central African Republic": {
+        "total_games": 53,
+        "avg_goals_scored": 1.09,
+        "avg_goals_conceded": 1.75,
+        "top_scorers": {
+            "Louis Mafouta": 3,
+            "Karl Namnganda": 2,
+            "Vénuste Baboula": 2
+        }
+    },
+    "Chad": {
+        "total_games": 36,
+        "avg_goals_scored": 0.53,
+        "avg_goals_conceded": 1.69,
+        "top_scorers": {
+            "Marius Mouandilmadji": 2,
+            "Célestin Ecua": 2,
+            "Ezechiel N'Douassel": 1
+        }
+    },
+    "Chagos Islands": {
+        "total_games": 5,
+        "avg_goals_scored": 1.2,
+        "avg_goals_conceded": 6.2,
+        "top_scorers": {}
+    },
+    "Chameria": {
+        "total_games": 7,
+        "avg_goals_scored": 2.0,
+        "avg_goals_conceded": 1.14,
+        "top_scorers": {}
+    },
+    "Chile": {
+        "total_games": 92,
+        "avg_goals_scored": 1.15,
+        "avg_goals_conceded": 1.27,
+        "top_scorers": {
+            "Alexis Sánchez": 8,
+            "Eduardo Vargas": 7,
+            "Arturo Vidal": 6
+        }
+    },
+    "China": {
+        "total_games": 76,
+        "avg_goals_scored": 1.32,
+        "avg_goals_conceded": 1.24,
+        "top_scorers": {
+            "Wu Lei": 19,
+            "Zhang Yuning": 6,
+            "Yang Xu": 5
+        }
+    },
+    "Colombia": {
+        "total_games": 102,
+        "avg_goals_scored": 1.53,
+        "avg_goals_conceded": 0.81,
+        "top_scorers": {
+            "Luis Díaz": 17,
+            "James Rodríguez": 6,
+            "Miguel Borja": 6
+        }
+    },
+    "Comoros": {
+        "total_games": 86,
+        "avg_goals_scored": 1.15,
+        "avg_goals_conceded": 1.35,
+        "top_scorers": {
+            "Myziane Maolida": 4,
+            "El Fardou Ben Nabouhane": 3,
+            "Rafiki Saïd": 3
+        }
+    },
+    "Congo": {
+        "total_games": 42,
+        "avg_goals_scored": 0.88,
+        "avg_goals_conceded": 1.71,
+        "top_scorers": {
+            "Silvère Ganvoula": 2,
+            "Guy Mbenza": 2,
+            "Charles Hambira": 1
+        }
+    },
+    "Cook Islands": {
+        "total_games": 10,
+        "avg_goals_scored": 0.5,
+        "avg_goals_conceded": 3.3,
+        "top_scorers": {
+            "Taci Kumsuz": 1
+        }
+    },
+    "Costa Rica": {
+        "total_games": 112,
+        "avg_goals_scored": 1.3,
+        "avg_goals_conceded": 1.32,
+        "top_scorers": {
+            "Alonso Martínez": 6,
+            "Manfred Ugalde": 6,
+            "Joel Campbell": 6
+        }
+    },
+    "Croatia": {
+        "total_games": 108,
+        "avg_goals_scored": 1.69,
+        "avg_goals_conceded": 1.19,
+        "top_scorers": {
+            "Andrej Kramarić": 23,
+            "Ivan Perišić": 18,
+            "Luka Modrić": 14
+        }
+    },
+    "Cuba": {
+        "total_games": 68,
+        "avg_goals_scored": 1.25,
+        "avg_goals_conceded": 1.79,
+        "top_scorers": {
+            "Maikel Reyes": 4,
+            "Onel Hernández": 2,
+            "Luis Paradela": 2
+        }
+    },
+    "Curaçao": {
+        "total_games": 64,
+        "avg_goals_scored": 1.75,
+        "avg_goals_conceded": 1.27,
+        "top_scorers": {
+            "Juninho Bacuna": 5,
+            "Kenji Gorré": 5,
+            "Gervane Kastaneer": 5
+        }
+    },
+    "Cyprus": {
+        "total_games": 82,
+        "avg_goals_scored": 0.91,
+        "avg_goals_conceded": 1.95,
+        "top_scorers": {
+            "Pieros Sotiriou": 7,
+            "Ioannis Pittas": 7,
+            "Grigoris Kastanos": 6
+        }
+    },
+    "Czech Republic": {
+        "total_games": 95,
+        "avg_goals_scored": 1.64,
+        "avg_goals_conceded": 1.28,
+        "top_scorers": {
+            "Patrik Schick": 21,
+            "Tomáš Souček": 12,
+            "Pavel Šulc": 5
+        }
+    },
+    "DR Congo": {
+        "total_games": 88,
+        "avg_goals_scored": 1.1,
+        "avg_goals_conceded": 0.88,
+        "top_scorers": {
+            "Yoane Wissa": 9,
+            "Cédric Bakambu": 7,
+            "Dieumerci Mbokani": 4
+        }
+    },
+    "Denmark": {
+        "total_games": 100,
+        "avg_goals_scored": 1.84,
+        "avg_goals_conceded": 0.82,
+        "top_scorers": {
+            "Christian Eriksen": 17,
+            "Rasmus Højlund": 13,
+            "Joakim Mæhle": 9
+        }
+    },
+    "Djibouti": {
+        "total_games": 30,
+        "avg_goals_scored": 0.77,
+        "avg_goals_conceded": 2.57,
+        "top_scorers": {
+            "Samuel Akinbinu": 2,
+            "Gabriel Dadzie": 2,
+            "Mahdi Houssein Mahabeh": 1
+        }
+    },
+    "Dominica": {
+        "total_games": 40,
+        "avg_goals_scored": 1.07,
+        "avg_goals_conceded": 1.77,
+        "top_scorers": {
+            "Audel Laville": 3,
+            "Julian Wade": 2,
+            "Troy Jules": 2
+        }
+    },
+    "Dominican Republic": {
+        "total_games": 59,
+        "avg_goals_scored": 1.83,
+        "avg_goals_conceded": 1.24,
+        "top_scorers": {
+            "Dorny Romero": 6,
+            "Nowend Lorenzo": 2,
+            "Peter González": 2
+        }
+    },
+    "East Turkestan": {
+        "total_games": 5,
+        "avg_goals_scored": 3.0,
+        "avg_goals_conceded": 3.2,
+        "top_scorers": {}
+    },
+    "Ecuador": {
+        "total_games": 96,
+        "avg_goals_scored": 1.19,
+        "avg_goals_conceded": 0.91,
+        "top_scorers": {
+            "Enner Valencia": 14,
+            "Gonzalo Plata": 7,
+            "Michael Estrada": 6
+        }
+    },
+    "Egypt": {
+        "total_games": 108,
+        "avg_goals_scored": 1.51,
+        "avg_goals_conceded": 0.76,
+        "top_scorers": {
+            "Mohamed Salah": 21,
+            "Trézéguet": 9,
+            "Mostafa Mohamed": 7
+        }
+    },
+    "El Salvador": {
+        "total_games": 102,
+        "avg_goals_scored": 1.01,
+        "avg_goals_conceded": 1.18,
+        "top_scorers": {
+            "David Rugamas": 8,
+            "Jairo Henríquez": 4,
+            "Joshua Pérez": 3
+        }
+    },
+    "Ellan Vannin": {
+        "total_games": 5,
+        "avg_goals_scored": 1.8,
+        "avg_goals_conceded": 1.0,
+        "top_scorers": {}
+    },
+    "England": {
+        "total_games": 115,
+        "avg_goals_scored": 2.2,
+        "avg_goals_conceded": 0.69,
+        "top_scorers": {
+            "Harry Kane": 67,
+            "Raheem Sterling": 17,
+            "Marcus Rashford": 14
+        }
+    },
+    "Equatorial Guinea": {
+        "total_games": 71,
+        "avg_goals_scored": 0.97,
+        "avg_goals_conceded": 1.14,
+        "top_scorers": {
+            "Emilio Nsue": 9,
+            "Iban Salvador": 5,
+            "Pablo Ganet": 4
+        }
+    },
+    "Estonia": {
+        "total_games": 93,
+        "avg_goals_scored": 0.82,
+        "avg_goals_conceded": 1.81,
+        "top_scorers": {
+            "Rauno Sappinen": 11,
+            "Henri Anier": 10,
+            "Mattias Käit": 7
+        }
+    },
+    "Eswatini": {
+        "total_games": 63,
+        "avg_goals_scored": 0.84,
+        "avg_goals_conceded": 1.52,
+        "top_scorers": {
+            "Philani Mkhontfo": 2,
+            "Justice Figuareido": 2,
+            "Siboniso Mamba": 1
+        }
+    },
+    "Ethiopia": {
+        "total_games": 59,
+        "avg_goals_scored": 1.0,
+        "avg_goals_conceded": 1.29,
+        "top_scorers": {
+            "Abubeker Nassir": 4,
+            "Bereket Desta": 3,
+            "Getaneh Kebede": 3
+        }
+    },
+    "Faroe Islands": {
+        "total_games": 81,
+        "avg_goals_scored": 0.88,
+        "avg_goals_conceded": 1.65,
+        "top_scorers": {
+            "Klæmint Olsen": 8,
+            "Viljormur Davidsen": 5,
+            "Hanus Sørensen": 5
+        }
+    },
+    "Fiji": {
+        "total_games": 49,
+        "avg_goals_scored": 1.86,
+        "avg_goals_conceded": 1.53,
+        "top_scorers": {
+            "Roy Krishna": 8,
+            "Thomas Dunn": 4,
+            "Sairusi Nalaubu": 2
+        }
+    },
+    "Finland": {
+        "total_games": 92,
+        "avg_goals_scored": 1.18,
+        "avg_goals_conceded": 1.27,
+        "top_scorers": {
+            "Teemu Pukki": 27,
+            "Joel Pohjanpalo": 10,
+            "Benjamin Källman": 8
+        }
+    },
+    "France": {
+        "total_games": 115,
+        "avg_goals_scored": 2.15,
+        "avg_goals_conceded": 0.86,
+        "top_scorers": {
+            "Kylian Mbappé": 52,
+            "Antoine Griezmann": 19,
+            "Olivier Giroud": 18
+        }
+    },
+    "French Guiana": {
+        "total_games": 34,
+        "avg_goals_scored": 1.53,
+        "avg_goals_conceded": 1.26,
+        "top_scorers": {}
+    },
+    "Frøya": {
+        "total_games": 7,
+        "avg_goals_scored": 1.0,
+        "avg_goals_conceded": 4.14,
+        "top_scorers": {}
+    },
+    "Gabon": {
+        "total_games": 63,
+        "avg_goals_scored": 1.33,
+        "avg_goals_conceded": 1.27,
+        "top_scorers": {
+            "Pierre-Emerick Aubameyang": 10,
+            "Denis Bouanga": 9,
+            "Jim Allevinah": 7
+        }
+    },
+    "Gambia": {
+        "total_games": 63,
+        "avg_goals_scored": 1.33,
+        "avg_goals_conceded": 1.24,
+        "top_scorers": {
+            "Musa Barrow": 9,
+            "Yankuba Minteh": 5,
+            "Adama Sidibeh": 5
+        }
+    },
+    "Georgia": {
+        "total_games": 86,
+        "avg_goals_scored": 1.52,
+        "avg_goals_conceded": 1.22,
+        "top_scorers": {
+            "Khvicha Kvaratskhelia": 19,
+            "Georges Mikautadze": 15,
+            "Giorgi Chakvetadze": 7
+        }
+    },
+    "Germany": {
+        "total_games": 103,
+        "avg_goals_scored": 2.22,
+        "avg_goals_conceded": 1.2,
+        "top_scorers": {
+            "Serge Gnabry": 18,
+            "Kai Havertz": 17,
+            "Timo Werner": 14
+        }
+    },
+    "Ghana": {
+        "total_games": 83,
+        "avg_goals_scored": 1.23,
+        "avg_goals_conceded": 1.08,
+        "top_scorers": {
+            "Jordan Ayew": 11,
+            "Mohammed Kudus": 7,
+            "Thomas Partey": 7
+        }
+    },
+    "Gibraltar": {
+        "total_games": 77,
+        "avg_goals_scored": 0.51,
+        "avg_goals_conceded": 2.69,
+        "top_scorers": {
+            "Liam Walker": 4,
+            "Reece Styche": 3,
+            "Tjay De Barr": 3
+        }
+    },
+    "Gozo": {
+        "total_games": 7,
+        "avg_goals_scored": 1.0,
+        "avg_goals_conceded": 1.0,
+        "top_scorers": {}
+    },
+    "Greece": {
+        "total_games": 84,
+        "avg_goals_scored": 1.35,
+        "avg_goals_conceded": 0.95,
+        "top_scorers": {
+            "Tasos Bakasetas": 11,
+            "Giorgos Masouras": 8,
+            "Christos Tzolis": 6
+        }
+    },
+    "Greenland": {
+        "total_games": 7,
+        "avg_goals_scored": 1.86,
+        "avg_goals_conceded": 2.57,
+        "top_scorers": {}
+    },
+    "Grenada": {
+        "total_games": 57,
+        "avg_goals_scored": 1.18,
+        "avg_goals_conceded": 2.16,
+        "top_scorers": {
+            "Saydrel Lewis": 3,
+            "Myles Hippolyte": 2,
+            "Jermaine Francis": 2
+        }
+    },
+    "Guadeloupe": {
+        "total_games": 44,
+        "avg_goals_scored": 1.82,
+        "avg_goals_conceded": 1.14,
+        "top_scorers": {
+            "Matthias Phaëton": 4,
+            "Ange-Freddy Plumain": 3,
+            "Thierry Ambrose": 2
+        }
+    },
+    "Guam": {
+        "total_games": 26,
+        "avg_goals_scored": 1.04,
+        "avg_goals_conceded": 2.69,
+        "top_scorers": {
+            "Jason Cunliffe": 4,
+            "Isiah Lagutang": 1,
+            "Shane Malcolm": 1
+        }
+    },
+    "Guatemala": {
+        "total_games": 94,
+        "avg_goals_scored": 1.55,
+        "avg_goals_conceded": 1.16,
+        "top_scorers": {
+            "Rubio Rubin": 6,
+            "Darwin Lom": 5,
+            "Oscar Santis": 4
+        }
+    },
+    "Guernsey": {
+        "total_games": 14,
+        "avg_goals_scored": 1.93,
+        "avg_goals_conceded": 0.86,
+        "top_scorers": {}
+    },
+    "Guinea": {
+        "total_games": 78,
+        "avg_goals_scored": 1.15,
+        "avg_goals_conceded": 1.1,
+        "top_scorers": {
+            "Mohamed Bayo": 5,
+            "Aguibou Camara": 3,
+            "Abdoul Karim Traoré": 3
+        }
+    },
+    "Guinea-Bissau": {
+        "total_games": 62,
+        "avg_goals_scored": 0.94,
+        "avg_goals_conceded": 1.4,
+        "top_scorers": {
+            "Joseph Mendes": 4,
+            "Mama Baldé": 4,
+            "Piqueti": 2
+        }
+    },
+    "Guyana": {
+        "total_games": 56,
+        "avg_goals_scored": 1.93,
+        "avg_goals_conceded": 1.71,
+        "top_scorers": {
+            "Neil Danns": 3,
+            "Omari Glasgow": 2,
+            "Deon Moore": 2
+        }
+    },
+    "Haiti": {
+        "total_games": 72,
+        "avg_goals_scored": 2.17,
+        "avg_goals_conceded": 1.29,
+        "top_scorers": {
+            "Duckens Nazon": 13,
+            "Frantzdy Pierrot": 10,
+            "Carnejy Antoine": 4
+        }
+    },
+    "Hitra": {
+        "total_games": 7,
+        "avg_goals_scored": 2.71,
+        "avg_goals_conceded": 3.14,
+        "top_scorers": {}
+    },
+    "Honduras": {
+        "total_games": 93,
+        "avg_goals_scored": 1.19,
+        "avg_goals_conceded": 1.35,
+        "top_scorers": {
+            "Romell Quioto": 7,
+            "Anthony Lozano": 4,
+            "Rubilio Castillo": 3
+        }
+    },
+    "Hong Kong": {
+        "total_games": 68,
+        "avg_goals_scored": 1.25,
+        "avg_goals_conceded": 1.43,
+        "top_scorers": {
+            "Michael Udebuluzor": 2,
+            "Tan Chun Lok": 1,
+            "Roberto Orlando Affonso Júnior": 1
+        }
+    },
+    "Hungary": {
+        "total_games": 90,
+        "avg_goals_scored": 1.36,
+        "avg_goals_conceded": 1.21,
+        "top_scorers": {
+            "Dominik Szoboszlai": 14,
+            "Roland Sallai": 11,
+            "Ádám Szalai": 10
+        }
+    },
+    "Iceland": {
+        "total_games": 103,
+        "avg_goals_scored": 1.29,
+        "avg_goals_conceded": 1.73,
+        "top_scorers": {
+            "Albert Guðmundsson": 10,
+            "Gylfi Sigurðsson": 8,
+            "Andri Guðjohnsen": 7
+        }
+    },
+    "India": {
+        "total_games": 76,
+        "avg_goals_scored": 1.09,
+        "avg_goals_conceded": 1.18,
+        "top_scorers": {
+            "Sunil Chhetri": 6,
+            "Anirudh Thapa": 1,
+            "Jeje Lalpekhlua": 1
+        }
+    },
+    "Indonesia": {
+        "total_games": 91,
+        "avg_goals_scored": 1.65,
+        "avg_goals_conceded": 1.59,
+        "top_scorers": {
+            "Ramadhan Sananta": 4,
+            "Ole Romeny": 3,
+            "Marselino Ferdinan": 3
+        }
+    },
+    "Iran": {
+        "total_games": 94,
+        "avg_goals_scored": 2.04,
+        "avg_goals_conceded": 0.71,
+        "top_scorers": {
+            "Mehdi Taremi": 25,
+            "Sardar Azmoun": 24,
+            "Karim Ansarifard": 10
+        }
+    },
+    "Iraq": {
+        "total_games": 113,
+        "avg_goals_scored": 1.26,
+        "avg_goals_conceded": 0.98,
+        "top_scorers": {
+            "Aymen Hussein": 19,
+            "Mohanad Ali": 11,
+            "Ibrahim Bayesh": 3
+        }
+    },
+    "Isle of Man": {
+        "total_games": 13,
+        "avg_goals_scored": 3.85,
+        "avg_goals_conceded": 1.31,
+        "top_scorers": {}
+    },
+    "Israel": {
+        "total_games": 76,
+        "avg_goals_scored": 1.63,
+        "avg_goals_conceded": 1.72,
+        "top_scorers": {
+            "Eran Zahavi": 27,
+            "Mu'nas Dabbur": 10,
+            "Dor Peretz": 9
+        }
+    },
+    "Italy": {
+        "total_games": 97,
+        "avg_goals_scored": 1.94,
+        "avg_goals_conceded": 0.9,
+        "top_scorers": {
+            "Moise Kean": 13,
+            "Ciro Immobile": 9,
+            "Giacomo Raspadori": 9
+        }
+    },
+    "Ivory Coast": {
+        "total_games": 95,
+        "avg_goals_scored": 1.74,
+        "avg_goals_conceded": 0.77,
+        "top_scorers": {
+            "Franck Kessié": 7,
+            "Sébastien Haller": 7,
+            "Amad Diallo": 6
+        }
+    },
+    "Jamaica": {
+        "total_games": 107,
+        "avg_goals_scored": 1.47,
+        "avg_goals_conceded": 1.15,
+        "top_scorers": {
+            "Shamar Nicholson": 10,
+            "Michail Antonio": 4,
+            "Jon Russell": 4
+        }
+    },
+    "Japan": {
+        "total_games": 113,
+        "avg_goals_scored": 2.33,
+        "avg_goals_conceded": 0.81,
+        "top_scorers": {
+            "Takumi Minamino": 17,
+            "Yuya Osako": 15,
+            "Ayase Ueda": 14
+        }
+    },
+    "Jersey": {
+        "total_games": 18,
+        "avg_goals_scored": 2.83,
+        "avg_goals_conceded": 0.72,
+        "top_scorers": {}
+    },
+    "Jordan": {
+        "total_games": 116,
+        "avg_goals_scored": 1.47,
+        "avg_goals_conceded": 1.15,
+        "top_scorers": {
+            "Musa Al-Taamari": 12,
+            "Yazan Al-Naimat": 12,
+            "Ali Olwan": 10
+        }
+    },
+    "Kabylia": {
+        "total_games": 6,
+        "avg_goals_scored": 1.33,
+        "avg_goals_conceded": 2.5,
+        "top_scorers": {}
+    },
+    "Kazakhstan": {
+        "total_games": 82,
+        "avg_goals_scored": 1.09,
+        "avg_goals_conceded": 1.61,
+        "top_scorers": {
+            "Bakhtiyar Zaynutdinov": 11,
+            "Abat Aymbetov": 8,
+            "Yan Vorogovsky": 4
+        }
+    },
+    "Kenya": {
+        "total_games": 66,
+        "avg_goals_scored": 1.15,
+        "avg_goals_conceded": 1.24,
+        "top_scorers": {
+            "Michael Olunga": 11,
+            "Ryan Ogam": 4,
+            "Masoud Juma": 2
+        }
+    },
+    "Kosovo": {
+        "total_games": 85,
+        "avg_goals_scored": 1.52,
+        "avg_goals_conceded": 1.18,
+        "top_scorers": {
+            "Vedat Muriqi": 24,
+            "Milot Rashica": 7,
+            "Arbër Zeneli": 5
+        }
+    },
+    "Kuwait": {
+        "total_games": 89,
+        "avg_goals_scored": 1.24,
+        "avg_goals_conceded": 1.4,
+        "top_scorers": {
+            "Yousef Nasser": 11,
+            "Mohammad Daham": 4,
+            "Bader Al-Mutawa": 3
+        }
+    },
+    "Kyrgyzstan": {
+        "total_games": 66,
+        "avg_goals_scored": 1.41,
+        "avg_goals_conceded": 1.53,
+        "top_scorers": {
+            "Joel Kojo": 7,
+            "Mirlan Murzaev": 6,
+            "Alimardon Shukurov": 5
+        }
+    },
+    "Kárpátalja": {
+        "total_games": 6,
+        "avg_goals_scored": 2.5,
+        "avg_goals_conceded": 0.83,
+        "top_scorers": {}
+    },
+    "Laos": {
+        "total_games": 41,
+        "avg_goals_scored": 0.85,
+        "avg_goals_conceded": 2.46,
+        "top_scorers": {
+            "Bounphachan Bounkong": 1
+        }
+    },
+    "Latvia": {
+        "total_games": 85,
+        "avg_goals_scored": 0.86,
+        "avg_goals_conceded": 1.58,
+        "top_scorers": {
+            "Vladislavs Gutkovskis": 11,
+            "Jānis Ikaunieks": 10,
+            "Roberts Uldriķis": 6
+        }
+    },
+    "Lebanon": {
+        "total_games": 75,
+        "avg_goals_scored": 0.97,
+        "avg_goals_conceded": 1.09,
+        "top_scorers": {
+            "Hilal El-Helwe": 5,
+            "Hassan Maatouk": 5,
+            "Soony Saad": 4
+        }
+    },
+    "Lesotho": {
+        "total_games": 69,
+        "avg_goals_scored": 0.68,
+        "avg_goals_conceded": 1.41,
+        "top_scorers": {
+            "Hlompho Kalake": 2,
+            "Tsepo Seturumane": 1,
+            "Motlomelo Mkwanazi": 1
+        }
+    },
+    "Liberia": {
+        "total_games": 59,
+        "avg_goals_scored": 0.83,
+        "avg_goals_conceded": 1.44,
+        "top_scorers": {
+            "Ayouba Kosiah": 3,
+            "Peter Wilson": 2,
+            "Nicholas Andrews": 2
+        }
+    },
+    "Libya": {
+        "total_games": 61,
+        "avg_goals_scored": 1.13,
+        "avg_goals_conceded": 1.21,
+        "top_scorers": {
+            "Ezoo El Maremi": 4,
+            "Ahmed Krawa'a": 2,
+            "Sanad Al Warfali": 2
+        }
+    },
+    "Liechtenstein": {
+        "total_games": 79,
+        "avg_goals_scored": 0.34,
+        "avg_goals_conceded": 2.63,
+        "top_scorers": {
+            "Dennis Salanović": 3,
+            "Nicolas Hasler": 3,
+            "Yanik Frick": 3
+        }
+    },
+    "Lithuania": {
+        "total_games": 87,
+        "avg_goals_scored": 0.66,
+        "avg_goals_conceded": 1.87,
+        "top_scorers": {
+            "Armandas Kučys": 7,
+            "Fedor Černych": 7,
+            "Gvidas Gineitis": 4
+        }
+    },
+    "Luxembourg": {
+        "total_games": 83,
+        "avg_goals_scored": 0.87,
+        "avg_goals_conceded": 1.57,
+        "top_scorers": {
+            "Gerson Rodrigues": 20,
+            "Danel Sinani": 12,
+            "David Turpel": 4
+        }
+    },
+    "Macau": {
+        "total_games": 20,
+        "avg_goals_scored": 0.45,
+        "avg_goals_conceded": 2.25,
+        "top_scorers": {
+            "Filipe Duarte": 1,
+            "Niki Torrão": 1
+        }
+    },
+    "Madagascar": {
+        "total_games": 73,
+        "avg_goals_scored": 1.14,
+        "avg_goals_conceded": 1.37,
+        "top_scorers": {
+            "Rayan Raveloson": 5,
+            "Njiva Rakotoharimalala": 4,
+            "Arnaud Randrianantenaina": 2
+        }
+    },
+    "Malawi": {
+        "total_games": 81,
+        "avg_goals_scored": 0.79,
+        "avg_goals_conceded": 1.12,
+        "top_scorers": {
+            "Gabadinho Mhango": 5,
+            "Chifundo Mphasi": 2,
+            "Richard Mbulu": 2
+        }
+    },
+    "Malaysia": {
+        "total_games": 90,
+        "avg_goals_scored": 1.94,
+        "avg_goals_conceded": 1.19,
+        "top_scorers": {
+            "Safawi Rasid": 6,
+            "Mohamadou Sumareh": 4,
+            "Shahrel Fikri": 4
+        }
+    },
+    "Maldives": {
+        "total_games": 52,
+        "avg_goals_scored": 1.06,
+        "avg_goals_conceded": 1.83,
+        "top_scorers": {
+            "Ali Ashfaq": 2,
+            "Ibrahim Mahudhee": 1,
+            "Naiz Hassan": 1
+        }
+    },
+    "Mali": {
+        "total_games": 79,
+        "avg_goals_scored": 1.49,
+        "avg_goals_conceded": 0.62,
+        "top_scorers": {
+            "Kamory Doumbia": 8,
+            "Lassine Sinayoko": 8,
+            "Ibrahima Koné": 8
+        }
+    },
+    "Malta": {
+        "total_games": 81,
+        "avg_goals_scored": 0.81,
+        "avg_goals_conceded": 1.95,
+        "top_scorers": {
+            "Andrei Agius": 3,
+            "Jurgen Degabriele": 3,
+            "Teddy Teuma": 3
+        }
+    },
+    "Martinique": {
+        "total_games": 40,
+        "avg_goals_scored": 1.18,
+        "avg_goals_conceded": 1.52,
+        "top_scorers": {
+            "Patrick Burner": 3,
+            "Kévin Fortuné": 3,
+            "Emmanuel Rivière": 2
+        }
+    },
+    "Matabeleland": {
+        "total_games": 8,
+        "avg_goals_scored": 0.88,
+        "avg_goals_conceded": 1.75,
+        "top_scorers": {}
+    },
+    "Mauritania": {
+        "total_games": 81,
+        "avg_goals_scored": 0.81,
+        "avg_goals_conceded": 1.2,
+        "top_scorers": {
+            "Moctar Sidi El Hacen": 1,
+            "Mamadou Niass": 1,
+            "Aboubakar Kamara": 1
+        }
+    },
+    "Mauritius": {
+        "total_games": 52,
+        "avg_goals_scored": 0.83,
+        "avg_goals_conceded": 1.35,
+        "top_scorers": {
+            "Lindsay Rose": 2,
+            "Kévin Bru": 1,
+            "Mike Gaspard": 1
+        }
+    },
+    "Mayotte": {
+        "total_games": 7,
+        "avg_goals_scored": 1.14,
+        "avg_goals_conceded": 0.57,
+        "top_scorers": {}
+    },
+    "Mexico": {
+        "total_games": 143,
+        "avg_goals_scored": 1.56,
+        "avg_goals_conceded": 0.92,
+        "top_scorers": {
+            "Raúl Jiménez": 14,
+            "Orbelín Pineda": 6,
+            "Henry Martín": 5
+        }
+    },
+    "Moldova": {
+        "total_games": 88,
+        "avg_goals_scored": 0.7,
+        "avg_goals_conceded": 2.01,
+        "top_scorers": {
+            "Ion Nicolaescu": 16,
+            "Mihail Caimacov": 3,
+            "Radu Gînsari": 3
+        }
+    },
+    "Mongolia": {
+        "total_games": 39,
+        "avg_goals_scored": 0.97,
+        "avg_goals_conceded": 2.18,
+        "top_scorers": {
+            "Norjmoogiin Tsedenbal": 3,
+            "Nyam-Osor Naranbold": 1,
+            "Dölgöön Amaraa": 1
+        }
+    },
+    "Montenegro": {
+        "total_games": 84,
+        "avg_goals_scored": 1.08,
+        "avg_goals_conceded": 1.43,
+        "top_scorers": {
+            "Stevan Jovetić": 11,
+            "Stefan Mugoša": 10,
+            "Nikola Krstović": 7
+        }
+    },
+    "Montserrat": {
+        "total_games": 36,
+        "avg_goals_scored": 1.14,
+        "avg_goals_conceded": 1.75,
+        "top_scorers": {
+            "Lyle Taylor": 5,
+            "Adrian Clifton": 2,
+            "Nathan Pond": 1
+        }
+    },
+    "Morocco": {
+        "total_games": 122,
+        "avg_goals_scored": 1.85,
+        "avg_goals_conceded": 0.55,
+        "top_scorers": {
+            "Ayoub El Kaabi": 12,
+            "Youssef En-Nesyri": 9,
+            "Azzedine Ounahi": 7
+        }
+    },
+    "Mozambique": {
+        "total_games": 83,
+        "avg_goals_scored": 1.07,
+        "avg_goals_conceded": 1.31,
+        "top_scorers": {
+            "Geny Catamo": 8,
+            "Clésio": 3,
+            "Stanley Ratifo": 3
+        }
+    },
+    "Myanmar": {
+        "total_games": 68,
+        "avg_goals_scored": 0.96,
+        "avg_goals_conceded": 2.59,
+        "top_scorers": {
+            "Suan Lam Mang": 2,
+            "Hlaing Bo Bo": 2,
+            "Soe Moe Kyaw": 2
+        }
+    },
+    "Namibia": {
+        "total_games": 71,
+        "avg_goals_scored": 0.92,
+        "avg_goals_conceded": 1.21,
+        "top_scorers": {
+            "Peter Shalulile": 8,
+            "Joslin Kamatuka": 2,
+            "Prins Tjiueza": 2
+        }
+    },
+    "Nepal": {
+        "total_games": 66,
+        "avg_goals_scored": 0.74,
+        "avg_goals_conceded": 1.74,
+        "top_scorers": {
+            "Anjan Bista": 4,
+            "Nawayug Shrestha": 1,
+            "Manish Dangi": 1
+        }
+    },
+    "Netherlands": {
+        "total_games": 101,
+        "avg_goals_scored": 2.29,
+        "avg_goals_conceded": 0.98,
+        "top_scorers": {
+            "Memphis Depay": 39,
+            "Cody Gakpo": 22,
+            "Georginio Wijnaldum": 19
+        }
+    },
+    "New Caledonia": {
+        "total_games": 32,
+        "avg_goals_scored": 2.22,
+        "avg_goals_conceded": 1.19,
+        "top_scorers": {
+            "Georges Gope-Fenepej": 3,
+            "Joseph Athale": 3,
+            "Jean-Philippe Saïko": 1
+        }
+    },
+    "New Zealand": {
+        "total_games": 56,
+        "avg_goals_scored": 1.71,
+        "avg_goals_conceded": 1.16,
+        "top_scorers": {
+            "Chris Wood": 14,
+            "Elijah Just": 9,
+            "Ben Waine": 7
+        }
+    },
+    "Nicaragua": {
+        "total_games": 75,
+        "avg_goals_scored": 1.44,
+        "avg_goals_conceded": 1.33,
+        "top_scorers": {
+            "Juan Barrera": 4,
+            "Jaime Moreno": 4,
+            "Bancy Hernández": 3
+        }
+    },
+    "Niger": {
+        "total_games": 68,
+        "avg_goals_scored": 1.1,
+        "avg_goals_conceded": 1.63,
+        "top_scorers": {
+            "Victorien Adebayor": 6,
+            "Daniel Sosah": 5,
+            "Youssouf Oumarou": 3
+        }
+    },
+    "Nigeria": {
+        "total_games": 105,
+        "avg_goals_scored": 1.54,
+        "avg_goals_conceded": 0.95,
+        "top_scorers": {
+            "Victor Osimhen": 17,
+            "William Troost-Ekong": 7,
+            "Ademola Lookman": 6
+        }
+    },
+    "North Korea": {
+        "total_games": 38,
+        "avg_goals_scored": 1.18,
+        "avg_goals_conceded": 1.68,
+        "top_scorers": {
+            "Jong Il-gwan": 7,
+            "Ri Jo-guk": 4,
+            "Ri Il-song": 2
+        }
+    },
+    "North Macedonia": {
+        "total_games": 86,
+        "avg_goals_scored": 1.38,
+        "avg_goals_conceded": 1.29,
+        "top_scorers": {
+            "Enis Bardhi": 17,
+            "Elif Elmas": 12,
+            "Ezgjan Alioski": 11
+        }
+    },
+    "Northern Cyprus": {
+        "total_games": 9,
+        "avg_goals_scored": 3.56,
+        "avg_goals_conceded": 0.89,
+        "top_scorers": {}
+    },
+    "Northern Ireland": {
+        "total_games": 81,
+        "avg_goals_scored": 1.06,
+        "avg_goals_conceded": 1.28,
+        "top_scorers": {
+            "Josh Magennis": 7,
+            "Isaac Price": 7,
+            "Paddy McNair": 5
+        }
+    },
+    "Northern Mariana Islands": {
+        "total_games": 9,
+        "avg_goals_scored": 1.11,
+        "avg_goals_conceded": 4.0,
+        "top_scorers": {}
+    },
+    "Norway": {
+        "total_games": 89,
+        "avg_goals_scored": 2.09,
+        "avg_goals_conceded": 1.01,
+        "top_scorers": {
+            "Erling Haaland": 53,
+            "Alexander Sørloth": 21,
+            "Mohamed Elyounoussi": 6
+        }
+    },
+    "Oman": {
+        "total_games": 107,
+        "avg_goals_scored": 1.13,
+        "avg_goals_conceded": 0.92,
+        "top_scorers": {
+            "Muhsen Al-Ghassani": 8,
+            "Abdullah Fawaz": 6,
+            "Rabia Al-Alawi": 5
+        }
+    },
+    "Orkney": {
+        "total_games": 11,
+        "avg_goals_scored": 1.73,
+        "avg_goals_conceded": 2.09,
+        "top_scorers": {}
+    },
+    "Padania": {
+        "total_games": 14,
+        "avg_goals_scored": 2.79,
+        "avg_goals_conceded": 1.29,
+        "top_scorers": {}
+    },
+    "Pakistan": {
+        "total_games": 32,
+        "avg_goals_scored": 0.59,
+        "avg_goals_conceded": 2.06,
+        "top_scorers": {
+            "Hassan Bashir": 1,
+            "Harun Hamid": 1,
+            "Rahis Nabi": 1
+        }
+    },
+    "Palestine": {
+        "total_games": 75,
+        "avg_goals_scored": 1.0,
+        "avg_goals_conceded": 1.2,
+        "top_scorers": {
+            "Oday Dabbagh": 10,
+            "Tamer Seyam": 5,
+            "Wessam Abou Ali": 4
+        }
+    },
+    "Panama": {
+        "total_games": 123,
+        "avg_goals_scored": 1.4,
+        "avg_goals_conceded": 1.42,
+        "top_scorers": {
+            "Ismael Díaz": 12,
+            "Cecilio Waterman": 9,
+            "José Fajardo": 8
+        }
+    },
+    "Panjab": {
+        "total_games": 9,
+        "avg_goals_scored": 3.11,
+        "avg_goals_conceded": 1.56,
+        "top_scorers": {}
+    },
+    "Papua New Guinea": {
+        "total_games": 33,
+        "avg_goals_scored": 1.67,
+        "avg_goals_conceded": 1.61,
+        "top_scorers": {
+            "Tommy Semmy": 6,
+            "Ati Kepo": 4,
+            "Alwin Komolong": 1
+        }
+    },
+    "Paraguay": {
+        "total_games": 85,
+        "avg_goals_scored": 0.92,
+        "avg_goals_conceded": 1.2,
+        "top_scorers": {
+            "Ángel Romero": 6,
+            "Julio Enciso": 5,
+            "Antonio Sanabria": 5
+        }
+    },
+    "Peru": {
+        "total_games": 98,
+        "avg_goals_scored": 0.96,
+        "avg_goals_conceded": 1.16,
+        "top_scorers": {
+            "André Carrillo": 6,
+            "Gianluca Lapadula": 6,
+            "Paolo Guerrero": 5
+        }
+    },
+    "Philippines": {
+        "total_games": 69,
+        "avg_goals_scored": 1.42,
+        "avg_goals_conceded": 1.58,
+        "top_scorers": {
+            "Patrick Reichelt": 3,
+            "Ángel Guirado": 3,
+            "John-Patrick Strauß": 2
+        }
+    },
+    "Poland": {
+        "total_games": 96,
+        "avg_goals_scored": 1.61,
+        "avg_goals_conceded": 1.23,
+        "top_scorers": {
+            "Robert Lewandowski": 33,
+            "Karol Świderski": 12,
+            "Piotr Zieliński": 9
+        }
+    },
+    "Portugal": {
+        "total_games": 108,
+        "avg_goals_scored": 2.25,
+        "avg_goals_conceded": 0.81,
+        "top_scorers": {
+            "Cristiano Ronaldo": 60,
+            "Bruno Fernandes": 19,
+            "Bernardo Silva": 12
+        }
+    },
+    "Puerto Rico": {
+        "total_games": 46,
+        "avg_goals_scored": 1.89,
+        "avg_goals_conceded": 1.52,
+        "top_scorers": {
+            "Ricardo Rivera": 4,
+            "Isaac Angking": 2,
+            "Leandro Antonetti": 2
+        }
+    },
+    "Qatar": {
+        "total_games": 125,
+        "avg_goals_scored": 1.56,
+        "avg_goals_conceded": 1.3,
+        "top_scorers": {
+            "Almoez Ali": 34,
+            "Akram Afif": 19,
+            "Hassan Al-Haydos": 9
+        }
+    },
+    "Raetia": {
+        "total_games": 10,
+        "avg_goals_scored": 2.7,
+        "avg_goals_conceded": 2.8,
+        "top_scorers": {}
+    },
+    "Republic of Ireland": {
+        "total_games": 84,
+        "avg_goals_scored": 1.1,
+        "avg_goals_conceded": 1.05,
+        "top_scorers": {
+            "Troy Parrott": 7,
+            "Evan Ferguson": 7,
+            "Shane Duffy": 4
+        }
+    },
+    "Romania": {
+        "total_games": 88,
+        "avg_goals_scored": 1.56,
+        "avg_goals_conceded": 1.09,
+        "top_scorers": {
+            "Răzvan Marin": 10,
+            "George Pușcaș": 10,
+            "Dennis Man": 9
+        }
+    },
+    "Russia": {
+        "total_games": 76,
+        "avg_goals_scored": 2.0,
+        "avg_goals_conceded": 0.96,
+        "top_scorers": {
+            "Artem Dzyuba": 19,
+            "Denis Cheryshev": 12,
+            "Mário Fernandes": 5
+        }
+    },
+    "Rwanda": {
+        "total_games": 55,
+        "avg_goals_scored": 0.93,
+        "avg_goals_conceded": 0.98,
+        "top_scorers": {
+            "Meddie Kagere": 3,
+            "Muhadjiri Hakizimana": 2,
+            "Yannick Mukunzi": 2
+        }
+    },
+    "Réunion": {
+        "total_games": 9,
+        "avg_goals_scored": 1.44,
+        "avg_goals_conceded": 0.56,
+        "top_scorers": {}
+    },
+    "Saint Barthélemy": {
+        "total_games": 8,
+        "avg_goals_scored": 3.0,
+        "avg_goals_conceded": 2.38,
+        "top_scorers": {}
+    },
+    "Saint Helena": {
+        "total_games": 8,
+        "avg_goals_scored": 0.75,
+        "avg_goals_conceded": 5.12,
+        "top_scorers": {}
+    },
+    "Saint Kitts and Nevis": {
+        "total_games": 56,
+        "avg_goals_scored": 1.54,
+        "avg_goals_conceded": 1.84,
+        "top_scorers": {
+            "Keithroy Freeman": 4,
+            "Romaine Sawyers": 2,
+            "Vinceroy Nelson": 1
+        }
+    },
+    "Saint Lucia": {
+        "total_games": 39,
+        "avg_goals_scored": 1.18,
+        "avg_goals_conceded": 1.69,
+        "top_scorers": {
+            "Caniggia Elva": 3,
+            "Ridel Stanislas": 1,
+            "Peter Pearson": 1
+        }
+    },
+    "Saint Martin": {
+        "total_games": 34,
+        "avg_goals_scored": 1.79,
+        "avg_goals_conceded": 2.09,
+        "top_scorers": {}
+    },
+    "Saint Vincent and the Grenadines": {
+        "total_games": 58,
+        "avg_goals_scored": 1.55,
+        "avg_goals_conceded": 1.81,
+        "top_scorers": {
+            "Oalex Anderson": 6,
+            "Zidane Sam": 1,
+            "Azinho Solomon": 1
+        }
+    },
+    "Samoa": {
+        "total_games": 17,
+        "avg_goals_scored": 1.65,
+        "avg_goals_conceded": 2.94,
+        "top_scorers": {
+            "Luke Salisbury": 2,
+            "Pharrell Trainor": 1,
+            "Dilo Tumua": 1
+        }
+    },
+    "San Marino": {
+        "total_games": 78,
+        "avg_goals_scored": 0.27,
+        "avg_goals_conceded": 3.17,
+        "top_scorers": {
+            "Nicola Nanni": 3,
+            "Filippo Berardi": 2,
+            "Alessandro Golinucci": 2
+        }
+    },
+    "Saudi Arabia": {
+        "total_games": 131,
+        "avg_goals_scored": 1.17,
+        "avg_goals_conceded": 1.05,
+        "top_scorers": {
+            "Salem Al-Dawsari": 13,
+            "Saleh Al-Shehri": 13,
+            "Firas Al-Buraikan": 9
+        }
+    },
+    "Scotland": {
+        "total_games": 93,
+        "avg_goals_scored": 1.41,
+        "avg_goals_conceded": 1.32,
+        "top_scorers": {
+            "John McGinn": 19,
+            "Scott McTominay": 14,
+            "Lyndon Dykes": 10
+        }
+    },
+    "Senegal": {
+        "total_games": 113,
+        "avg_goals_scored": 1.73,
+        "avg_goals_conceded": 0.72,
+        "top_scorers": {
+            "Sadio Mané": 18,
+            "Ismaïla Sarr": 14,
+            "Habib Diallo": 6
+        }
+    },
+    "Serbia": {
+        "total_games": 94,
+        "avg_goals_scored": 1.56,
+        "avg_goals_conceded": 1.2,
+        "top_scorers": {
+            "Aleksandar Mitrović": 45,
+            "Dušan Vlahović": 13,
+            "Luka Jović": 7
+        }
+    },
+    "Seychelles": {
+        "total_games": 50,
+        "avg_goals_scored": 0.44,
+        "avg_goals_conceded": 2.88,
+        "top_scorers": {
+            "Ryan Henriette": 1,
+            "Lorenzo Hoareau": 1
+        }
+    },
+    "Shetland": {
+        "total_games": 11,
+        "avg_goals_scored": 2.18,
+        "avg_goals_conceded": 1.91,
+        "top_scorers": {}
+    },
+    "Sierra Leone": {
+        "total_games": 53,
+        "avg_goals_scored": 0.98,
+        "avg_goals_conceded": 1.47,
+        "top_scorers": {
+            "Kei Kamara": 2,
+            "Musa Noah Kamara": 2,
+            "Augustus Kargbo": 2
+        }
+    },
+    "Singapore": {
+        "total_games": 78,
+        "avg_goals_scored": 1.42,
+        "avg_goals_conceded": 1.69,
+        "top_scorers": {
+            "Ikhsan Fandi": 4,
+            "Faris Ramli": 3,
+            "Jacob Mahler": 2
+        }
+    },
+    "Sint Maarten": {
+        "total_games": 35,
+        "avg_goals_scored": 1.57,
+        "avg_goals_conceded": 3.06,
+        "top_scorers": {}
+    },
+    "Slovakia": {
+        "total_games": 91,
+        "avg_goals_scored": 1.4,
+        "avg_goals_conceded": 1.16,
+        "top_scorers": {
+            "Ondrej Duda": 9,
+            "David Strelec": 8,
+            "Ivan Schranz": 7
+        }
+    },
+    "Slovenia": {
+        "total_games": 88,
+        "avg_goals_scored": 1.3,
+        "avg_goals_conceded": 1.01,
+        "top_scorers": {
+            "Benjamin Šeško": 14,
+            "Josip Iličić": 9,
+            "Andraž Šporar": 7
+        }
+    },
+    "Solomon Islands": {
+        "total_games": 44,
+        "avg_goals_scored": 2.23,
+        "avg_goals_conceded": 1.7,
+        "top_scorers": {
+            "Raphael Lea'i": 5,
+            "Alwin Hou": 3,
+            "Atkin Kaua": 1
+        }
+    },
+    "Somalia": {
+        "total_games": 22,
+        "avg_goals_scored": 0.5,
+        "avg_goals_conceded": 1.91,
+        "top_scorers": {
+            "Anwar Shakunda": 1,
+            "Omar Mohamed": 1,
+            "Yusuf Ahmed": 1
+        }
+    },
+    "South Africa": {
+        "total_games": 105,
+        "avg_goals_scored": 1.34,
+        "avg_goals_conceded": 0.79,
+        "top_scorers": {
+            "Teboho Mokoena": 5,
+            "Oswin Appollis": 4,
+            "Lyle Foster": 4
+        }
+    },
+    "South Korea": {
+        "total_games": 113,
+        "avg_goals_scored": 1.74,
+        "avg_goals_conceded": 0.88,
+        "top_scorers": {
+            "Son Heung-min": 22,
+            "Hwang Hee-chan": 10,
+            "Lee Kang-in": 8
+        }
+    },
+    "South Ossetia": {
+        "total_games": 7,
+        "avg_goals_scored": 1.71,
+        "avg_goals_conceded": 1.14,
+        "top_scorers": {}
+    },
+    "South Sudan": {
+        "total_games": 49,
+        "avg_goals_scored": 0.63,
+        "avg_goals_conceded": 1.69,
+        "top_scorers": {
+            "Niko Kata": 1,
+            "Roger Aholou": 1,
+            "Omot Sebit": 1
+        }
+    },
+    "Spain": {
+        "total_games": 111,
+        "avg_goals_scored": 2.35,
+        "avg_goals_conceded": 0.77,
+        "top_scorers": {
+            "Mikel Oyarzabal": 23,
+            "Ferran Torres": 21,
+            "Álvaro Morata": 21
+        }
+    },
+    "Sri Lanka": {
+        "total_games": 49,
+        "avg_goals_scored": 0.76,
+        "avg_goals_conceded": 1.86,
+        "top_scorers": {
+            "Ahmed Waseem Razeek": 2,
+            "Charitha Rathnayake": 1
+        }
+    },
+    "Sudan": {
+        "total_games": 74,
+        "avg_goals_scored": 0.77,
+        "avg_goals_conceded": 1.28,
+        "top_scorers": {
+            "Ramadan Agab": 3,
+            "Mohamed Abdelrahman": 3,
+            "Seif Teiri": 2
+        }
+    },
+    "Suriname": {
+        "total_games": 53,
+        "avg_goals_scored": 1.7,
+        "avg_goals_conceded": 1.06,
+        "top_scorers": {
+            "Nigel Hasselbaink": 7,
+            "Shaquille Pinas": 4,
+            "Richonell Margaret": 4
+        }
+    },
+    "Sweden": {
+        "total_games": 106,
+        "avg_goals_scored": 1.58,
+        "avg_goals_conceded": 1.25,
+        "top_scorers": {
+            "Viktor Gyökeres": 18,
+            "Emil Forsberg": 13,
+            "Alexander Isak": 13
+        }
+    },
+    "Switzerland": {
+        "total_games": 107,
+        "avg_goals_scored": 1.83,
+        "avg_goals_conceded": 1.12,
+        "top_scorers": {
+            "Breel Embolo": 17,
+            "Haris Seferovic": 12,
+            "Remo Freuler": 10
+        }
+    },
+    "Syria": {
+        "total_games": 91,
+        "avg_goals_scored": 1.26,
+        "avg_goals_conceded": 1.32,
+        "top_scorers": {
+            "Omar Al Somah": 11,
+            "Omar Khribin": 8,
+            "Mahmoud Al-Mawas": 6
+        }
+    },
+    "Székely Land": {
+        "total_games": 13,
+        "avg_goals_scored": 2.38,
+        "avg_goals_conceded": 1.92,
+        "top_scorers": {}
+    },
+    "Sápmi": {
+        "total_games": 6,
+        "avg_goals_scored": 1.0,
+        "avg_goals_conceded": 2.67,
+        "top_scorers": {}
+    },
+    "São Tomé and Príncipe": {
+        "total_games": 31,
+        "avg_goals_scored": 0.71,
+        "avg_goals_conceded": 2.68,
+        "top_scorers": {
+            "Ronaldo Afonso": 3,
+            "Iniesta": 1,
+            "Denilson Silva": 1
+        }
+    },
+    "Tahiti": {
+        "total_games": 28,
+        "avg_goals_scored": 2.07,
+        "avg_goals_conceded": 1.25,
+        "top_scorers": {
+            "Teaonui Tehau": 4,
+            "Matéo Degrumelle": 2,
+            "Benoît Mathon": 2
+        }
+    },
+    "Taiwan": {
+        "total_games": 46,
+        "avg_goals_scored": 1.04,
+        "avg_goals_conceded": 2.39,
+        "top_scorers": {
+            "Yu Yao-hsing": 3,
+            "Wu Yen-shu": 2,
+            "Chen Yi-wei": 1
+        }
+    },
+    "Tajikistan": {
+        "total_games": 68,
+        "avg_goals_scored": 1.25,
+        "avg_goals_conceded": 1.15,
+        "top_scorers": {
+            "Manuchekhr Dzhalilov": 4,
+            "Shahrom Samiev": 4,
+            "Ehson Panjshanbe": 2
+        }
+    },
+    "Tamil Eelam": {
+        "total_games": 13,
+        "avg_goals_scored": 2.08,
+        "avg_goals_conceded": 1.92,
+        "top_scorers": {}
+    },
+    "Tanzania": {
+        "total_games": 74,
+        "avg_goals_scored": 0.82,
+        "avg_goals_conceded": 1.12,
+        "top_scorers": {
+            "Simon Msuva": 7,
+            "Mbwana Samatta": 2,
+            "Charles M'Mombwa": 2
+        }
+    },
+    "Thailand": {
+        "total_games": 99,
+        "avg_goals_scored": 1.78,
+        "avg_goals_conceded": 1.09,
+        "top_scorers": {
+            "Supachok Sarachat": 5,
+            "Suphanat Mueanta": 5,
+            "Chanathip Songkrasin": 2
+        }
+    },
+    "Tibet": {
+        "total_games": 10,
+        "avg_goals_scored": 1.6,
+        "avg_goals_conceded": 4.1,
+        "top_scorers": {}
+    },
+    "Timor-Leste": {
+        "total_games": 34,
+        "avg_goals_scored": 0.79,
+        "avg_goals_conceded": 3.18,
+        "top_scorers": {
+            "João Pedro": 1,
+            "Rufino Gama": 1
+        }
+    },
+    "Togo": {
+        "total_games": 59,
+        "avg_goals_scored": 1.05,
+        "avg_goals_conceded": 1.19,
+        "top_scorers": {
+            "Kévin Denkey": 3,
+            "Euloge Placca Fessou": 3,
+            "Kodjo Fo-Doh Laba": 1
+        }
+    },
+    "Tonga": {
+        "total_games": 11,
+        "avg_goals_scored": 1.09,
+        "avg_goals_conceded": 4.27,
+        "top_scorers": {
+            "Viliami Tikoipau": 1,
+            "Hemaloto Polovili": 1,
+            "Christopher Kefu": 1
+        }
+    },
+    "Trinidad and Tobago": {
+        "total_games": 88,
+        "avg_goals_scored": 1.42,
+        "avg_goals_conceded": 1.57,
+        "top_scorers": {
+            "Dante Sealy": 4,
+            "Kevin Molino": 3,
+            "Levi García": 3
+        }
+    },
+    "Tunisia": {
+        "total_games": 117,
+        "avg_goals_scored": 1.38,
+        "avg_goals_conceded": 0.86,
+        "top_scorers": {
+            "Wahbi Khazri": 9,
+            "Youssef Msakni": 5,
+            "Ferjani Sassi": 4
+        }
+    },
+    "Turkey": {
+        "total_games": 99,
+        "avg_goals_scored": 1.79,
+        "avg_goals_conceded": 1.27,
+        "top_scorers": {
+            "Kerem Aktürkoğlu": 14,
+            "Hakan Çalhanoğlu": 12,
+            "Cenk Tosun": 9
+        }
+    },
+    "Turkmenistan": {
+        "total_games": 37,
+        "avg_goals_scored": 1.11,
+        "avg_goals_conceded": 1.7,
+        "top_scorers": {
+            "Altymyrat Annadurdyýew": 4,
+            "Arslanmyrat Amanow": 3,
+            "Wahyt Orazsähedow": 2
+        }
+    },
+    "Turks and Caicos Islands": {
+        "total_games": 33,
+        "avg_goals_scored": 1.15,
+        "avg_goals_conceded": 3.55,
+        "top_scorers": {
+            "Billy Forbes": 1
+        }
+    },
+    "Tuvalu": {
+        "total_games": 14,
+        "avg_goals_scored": 1.0,
+        "avg_goals_conceded": 5.43,
+        "top_scorers": {}
+    },
+    "Uganda": {
+        "total_games": 77,
+        "avg_goals_scored": 0.92,
+        "avg_goals_conceded": 1.04,
+        "top_scorers": {
+            "Rogers Mato": 4,
+            "Fahad Bayo": 4,
+            "Allan Okello": 3
+        }
+    },
+    "Ukraine": {
+        "total_games": 91,
+        "avg_goals_scored": 1.45,
+        "avg_goals_conceded": 1.29,
+        "top_scorers": {
+            "Roman Yaremchuk": 14,
+            "Ruslan Malinovskyi": 9,
+            "Artem Dovbyk": 9
+        }
+    },
+    "United Arab Emirates": {
+        "total_games": 102,
+        "avg_goals_scored": 1.48,
+        "avg_goals_conceded": 1.07,
+        "top_scorers": {
+            "Ali Mabkhout": 21,
+            "Fábio Lima": 8,
+            "Sultan Adil": 7
+        }
+    },
+    "United Koreans in Japan": {
+        "total_games": 6,
+        "avg_goals_scored": 1.17,
+        "avg_goals_conceded": 0.67,
+        "top_scorers": {}
+    },
+    "United States": {
+        "total_games": 130,
+        "avg_goals_scored": 1.88,
+        "avg_goals_conceded": 0.97,
+        "top_scorers": {
+            "Christian Pulisic": 10,
+            "Jesús Ferreira": 8,
+            "Malik Tillman": 5
+        }
+    },
+    "United States Virgin Islands": {
+        "total_games": 34,
+        "avg_goals_scored": 0.91,
+        "avg_goals_conceded": 2.44,
+        "top_scorers": {
+            "Jett Blaschka": 1
+        }
+    },
+    "Uruguay": {
+        "total_games": 97,
+        "avg_goals_scored": 1.39,
+        "avg_goals_conceded": 0.84,
+        "top_scorers": {
+            "Luis Suárez": 14,
+            "Edinson Cavani": 9,
+            "Giorgian de Arrascaeta": 9
+        }
+    },
+    "Uzbekistan": {
+        "total_games": 92,
+        "avg_goals_scored": 1.55,
+        "avg_goals_conceded": 0.99,
+        "top_scorers": {
+            "Eldor Shomurodov": 17,
+            "Abbosbek Fayzullaev": 7,
+            "Jaloliddin Masharipov": 5
+        }
+    },
+    "Vanuatu": {
+        "total_games": 36,
+        "avg_goals_scored": 1.78,
+        "avg_goals_conceded": 1.94,
+        "top_scorers": {
+            "John Alick": 2,
+            "Johnathan Spokeyjack": 1,
+            "Kensi Tangis": 1
+        }
+    },
+    "Venezuela": {
+        "total_games": 83,
+        "avg_goals_scored": 1.17,
+        "avg_goals_conceded": 1.29,
+        "top_scorers": {
+            "Salomón Rondón": 13,
+            "Darwin Machís": 6,
+            "Eduard Bello": 4
+        }
+    },
+    "Vietnam": {
+        "total_games": 87,
+        "avg_goals_scored": 1.57,
+        "avg_goals_conceded": 1.07,
+        "top_scorers": {
+            "Nguyễn Tiến Linh": 10,
+            "Nguyễn Quang Hải": 5,
+            "Nguyễn Công Phượng": 3
+        }
+    },
+    "Wales": {
+        "total_games": 89,
+        "avg_goals_scored": 1.27,
+        "avg_goals_conceded": 1.09,
+        "top_scorers": {
+            "Harry Wilson": 16,
+            "Gareth Bale": 12,
+            "Kieffer Moore": 12
+        }
+    },
+    "Western Armenia": {
+        "total_games": 11,
+        "avg_goals_scored": 1.82,
+        "avg_goals_conceded": 1.18,
+        "top_scorers": {}
+    },
+    "Western Isles": {
+        "total_games": 10,
+        "avg_goals_scored": 1.1,
+        "avg_goals_conceded": 1.9,
+        "top_scorers": {}
+    },
+    "Yemen": {
+        "total_games": 48,
+        "avg_goals_scored": 1.06,
+        "avg_goals_conceded": 1.81,
+        "top_scorers": {
+            "Abdulwasea Al-Matari": 3,
+            "Omar Al-Dahi": 3,
+            "Nasser Al-Gahwashi": 3
+        }
+    },
+    "Ynys Môn": {
+        "total_games": 12,
+        "avg_goals_scored": 2.5,
+        "avg_goals_conceded": 1.08,
+        "top_scorers": {}
+    },
+    "Yorkshire": {
+        "total_games": 7,
+        "avg_goals_scored": 3.86,
+        "avg_goals_conceded": 1.57,
+        "top_scorers": {}
+    },
+    "Zambia": {
+        "total_games": 87,
+        "avg_goals_scored": 1.29,
+        "avg_goals_conceded": 1.44,
+        "top_scorers": {
+            "Fashion Sakala": 7,
+            "Patson Daka": 6,
+            "Enock Mwepu": 1
+        }
+    },
+    "Zimbabwe": {
+        "total_games": 68,
+        "avg_goals_scored": 0.9,
+        "avg_goals_conceded": 1.16,
+        "top_scorers": {
+            "Knowledge Musona": 4,
+            "Marshall Munetsi": 2,
+            "Khama Billiat": 2
+        }
+    }
+}
